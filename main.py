@@ -23,7 +23,7 @@ def keep_alive():
 # --- [আপডেটেড কনফিগারেশন] ---
 API_ID = 38199591
 API_HASH = "274ed9d7f696f8970e0348dd40d47f70"
-BOT_TOKEN = "8565820660:AAGJJ3Vs3P1Tsd-iytC3giG9iEAw12QMU48" # নতুন টোকেন আপডেট করা হয়েছে
+BOT_TOKEN = "8565820660:AAERaDxb77ET-Qq3w3a4xUNs55eRCAyR_Y0" # নতুন টোকেন আপডেট করা হয়েছে
 PANEL_API_KEY = "nxa_288cc462a8c98cc999ab1ac824f77ef25edceae0"
 GROUP_ID = -1003760289145
 
